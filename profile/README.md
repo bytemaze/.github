@@ -25,7 +25,7 @@ If you dare to collaborate with this project, you must follow these steps:
 
 <div align="center">
 
-  [![email](https://img.shields.io/badge/Email-35A29F?style=for-the-badge&logo=gmail&logoColor=white)](https://profile.codersrank.io/user/adejonghm/)&nbsp;&nbsp;
+  [![email](https://img.shields.io/badge/Email-35A29F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsbytemaze@gmail.com)&nbsp;&nbsp;
   [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ByteMaze_)&nbsp;&nbsp;
   [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cCZnqufS)
 
