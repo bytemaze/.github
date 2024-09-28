@@ -1,10 +1,10 @@
-# Byte Maze Organization
+# Knovatu Organization
 
-This is the official repository of [Byte Maze](https://bytemaze.github.io/), a website created with the idea of sharing content about technologies, whether about programming languages, software, technologies, cultures, tips, or any other topic related to the world of technology.
+This is the official repository of [Knovatu](https://knovatu.info/), a website created with the idea of sharing content about technologies, whether about programming languages, software, technologies, cultures, tips, or any other topics related to the world of technology.
 
 We are a group of people who like collaborative work, so if you feel like contributing any content related to technology, choosing a topic, and developing your idea, you are always welcome here.
 
-**Byte Maze** is a static website built with [Jekyll](https://jekyllrb.com/). All content is generated using [Markdown](https://www.markdownguide.org/). To learn more about this lightweight markup language, you can use this [link](https://daringfireball.net/projects/markdown/syntax#blockquote).
+**Byte Maze** is a static website built with [Jekyll](https://jekyllrb.com/). All content is generated using [Markdown](https://www.markdownguide.org/). You can use this [link](https://daringfireball.net/projects/markdown/syntax#blockquote) to learn more about this lightweight markup language.
 
 <br/>
 
@@ -25,8 +25,8 @@ If you dare to collaborate with this project, you must follow these steps:
 
 <div align="center">
 
-  [![email](https://img.shields.io/badge/Email-35A29F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsbytemaze@gmail.com)&nbsp;&nbsp;
+  <!-- [![email](https://img.shields.io/badge/Email-35A29F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsbytemaze@gmail.com)&nbsp;&nbsp;
   [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ByteMaze_)&nbsp;&nbsp;
-  [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cCZnqufS)
+  [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cCZnqufS) -->
 
 </div>
